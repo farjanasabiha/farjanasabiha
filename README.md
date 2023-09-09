@@ -1,10 +1,6 @@
-<h1>Assalamualaikum This is Farjana Sabiha.</h1>
+<h1>Assalamualaikum. This is Farjana Sabiha.</h1>
 <h3>A passionate 🌎 Web developer</h3>
     <img style="text-align: right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farjanasabiha&label=Profile%20views&color=0e75b6&style=flat" alt="farjanasabiha" /> </p>
-
-<p align="left"> <a href="https://twitter.com/coder_sabiha" target="blank"><img src="https://img.shields.io/twitter/follow/coder_sabiha?logo=twitter&style=for-the-badge" alt="coder_sabiha" /></a> </p>
 
 - 🔭 I’m currently working on **Front-end development**
 
